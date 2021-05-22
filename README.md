@@ -2,7 +2,7 @@
 
 ## Project Overview:
 
-The school board has noticed evidence of academic dishonesty within the Thomas High School ninth graders.  We have been contacted by Maria to replace the math and reading scores with NaNs for the Thomas School ninth graders.  We have set out to complete:
+The school board has noticed evidence of academic dishonesty within the Thomas High School ninth graders.  To uphold state-testing standards we have been contacted by Maria to replace the math and reading scores with NaNs for the Thomas School ninth graders.  We have set out to complete the following:
 
 1. Replace reading and math scores to NaNs for Thomas High School ninth grade.
 2. Repeat the district summary with updated data.
@@ -48,9 +48,6 @@ The school board has noticed evidence of academic dishonesty within the Thomas H
 
 
 ## School_District_Analysis Summary:
-The audit of the election shows that:
 
-With the information at hand using "election_results.csv" we determined that there were 3 candiates in the election over 3 counties.  The candidates in the election were Charles Casper Stockham, Diana DeGette, and Raymon Anthony Doane.  While the election took place in Arapahoe, Denver and Jefferson Counties.  The congressional election contained 369,711 votes.  Diana DeGette was declared the winner with 73.8% (272,892 votes) of the popular vote.  Denver County had the largest voter turnout in the election with 82.8% (306,055) of votes cast in the election.  See the above for a list containing all the information we recorded.
-    
-## School_District_Analysis Proposal:
-With the script we have produced you will be able to find the accurate totals of any County election with a few minor tweaks.  It is a matter of lining up the header rows to match the County and Candidates, as well as finding the proper path to the source file.  This script can also be used for any Municipal, Senitorial, or Federal Election.
+
+  
