@@ -16,7 +16,7 @@ The school board has noticed evidence of academic dishonesty within the Thomas H
 
  Data Source: [students_complete.csv](Resouces/students_complete.csv)
  
- Software: Python 3.7.6, Visual Studio Code, 1.56.0
+ Software: Jupyter Notebook, Anaconda 4.10.1, Python 3.7.6, Visual Studio Code, 1.56.0
  
  Code: [PyCitySchools_Challenge.ipynb](PyCitySchools_Challenge.ipynb)
 
