@@ -18,7 +18,7 @@ The school board has noticed evidence of academic dishonesty within the Thomas H
  
  Software: Python 3.7.6, Visual Studio Code, 1.56.0
  
- Code: PyCitySchools_Challenge.ipynb
+ Code: [PyCitySchools_Challenge.ipynb](PyCitySchools_Challenge.ipynb)
 
 ## School_District_Analysis Results:
 
