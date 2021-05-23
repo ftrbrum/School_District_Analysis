@@ -66,5 +66,5 @@ Average Reading = stayed the same <br />
 The overall funding levels per student, per school, and per school type were not changed.  I believe the school board will be happy with their choice of using NaNs for the grade nine students.  The state-testing standards have been upheld.  
 
 
-
+[Prev_District_Summary.png](Resources/Prev_District_Summary.png)
 
