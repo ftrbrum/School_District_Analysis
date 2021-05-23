@@ -12,14 +12,6 @@ The school board has noticed evidence of academic dishonesty within the Thomas H
 6. Find the new scores by school for spending per student, by school size, and by school type
 7. Compare the new results with the previous results
 
-## Resources:
-
- Data Source: [students_complete.csv](Resouces/students_complete.csv)
- 
- Software: Jupyter Notebook, Anaconda 4.10.1, Python 3.7.6, Visual Studio Code, 1.56.0
- 
- Code: [PyCitySchools_Challenge.ipynb](PyCitySchools_Challenge.ipynb)
-
 ## School_District_Analysis Results:
 
 ### Showing reading and match scores for Thomas High School have been replaced with NaNs values.
@@ -63,8 +55,16 @@ Average Reading = stayed the same
 % Passing Reading = 0.03% decline
 % Overall Passing = 0.01% decline 
 
-The overall funding levels per student, per school, and per school type were not changed.  I believe the school board will be happy with their choice of using NaNs for the grade nine students.  The state-testing standards have been upheld.  
+The overall funding levels per student, per school, and per school type were not changed.  I believe the school board will be happy with their choice of using NaNs for the grade nine students.  The state-testing standards have been upheld.
 
+Findings in the report do show that there are a few interesting performaces.  The lowest spending range per student showed the highest performace while, the highest spending range per student showed the lowest performance.  The small (<1000) and medium (1000 - 2000) school sizes also have a higher success level per student over the larger school sizes (2000 - 5000).  There is also a disproportionate success rate in every category between Charter and District schools with Charter schools having a an overall passing rate of 36% higher than District schools.
 
+## Resources:
 
+ Data Source: [students_complete.csv](Resouces/students_complete.csv)
+ 
+ Software: Jupyter Notebook, Anaconda 4.10.1, Python 3.7.6, Visual Studio Code, 1.56.0
+ 
+ Code: [PyCitySchools_Challenge.ipynb](PyCitySchools_Challenge.ipynb)
 
+Images: [Resources](Resources)
