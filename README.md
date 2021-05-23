@@ -57,7 +57,7 @@ The school board has noticed evidence of academic dishonesty within the Thomas H
 
 There were 461 grade nine students at Thomas High School that had their marks in reading and math changed to NaNs.  This affected the scores very little in every category we tracked with the largest decline at 0.03%.
 
-Average Math = 0.01% decline <br/
+Average Math = 0.01% decline <br />
 Average Reading = stayed the same 
 % Passing Math = 0.02% decline 
 % Passing Reading = 0.03% decline 
